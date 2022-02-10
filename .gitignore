@@ -3,5 +3,5 @@
 data/*
 !.gitignore
 !README.md
-!Chlorinated peptide sequencing-published.ipynb
+!Peptide Sequencing of Plasma after Chlorine Exposure.ipynb
 !environment.yml
