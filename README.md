@@ -1,4 +1,4 @@
-# Chlorotyrosines: Peptide sequencing of plasma exposed to chlorine gas
+# Python Code for Peptide Sequencing of plasma after Chlorine Exposure
 ## Background
 Blood plasma was exposed in vitro to various concentrations of chlorine gas. After sample preparation and digestion, the peptides were measured by LC-HRMS/MS. The raw data was analyzed using Peaks (R) X+ Software. The identified peptides were exported in a .csv datafile and analyzed by Python 3.9.5.
 
